@@ -1,0 +1,19 @@
+{
+  "name": "bowlingball",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bowling-game.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.7.0"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "@angular/cli": "^13.2.3",
+    "g": "^2.0.1"
+  }
+}
